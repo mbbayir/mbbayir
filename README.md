@@ -30,7 +30,6 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 </div>
 :fire: My Stats :
 <p></p>
-<a href="https://git.io/streak-stats"><img src="http://github-readme-streak-stats.herokuapp.com?user=mbbayirr&theme=dark&hide_border=true&border_radius=10&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak" /></a>
+<a href="https://git.io/streak-stats"><img src="http://github-readme-streak-stats.herokuapp.com?user=AzizOzenir&theme=dark&hide_border=true&border_radius=10&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak" /></a>
 <p></p>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=BurakSekmenn&theme=dracula&hide_border=true&include_all_commits=true&count_private=false&layout=compact)
-
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AzizOzenir&layout=compact&theme=vision-friendly-dark" alt="Top Languages" />
