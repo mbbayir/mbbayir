@@ -14,7 +14,7 @@
 </div>
 
 Here are some ideas to get you started:
-I am a Full Stack Developer [<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif"](url) width="30"> from Turkey/Antalya.
+I am a Full Stack Developer from Turkey/Antalya.
 - 🔭 I’m currently working on .NET, Angular projects
 - 🌱 I’m currently learning about C# , JS  
 - 👯 I’m looking to collaborate on any projects
