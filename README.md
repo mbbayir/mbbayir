@@ -2,10 +2,9 @@
 
 <div id="badges">
  <a href="https://www.linkedin.com/in/mehmet-burak-bayır-023807251/"> <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/></a>
- <a href=""> <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/></a>
 <a href=""><img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/></a>
 </div>
-<img src="https://komarev.com/ghpvc/?username=AzizOzenir&style=flat-square&color=blue" alt=""/>
+<img src="https://komarev.com/ghpvc/?username=mbbayir&style=flat-square&color=blue" alt=""/>
 <h1>
   Hey There
   <img src="https://i.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.webp" width="30px" height="30px"/>
@@ -15,7 +14,7 @@
 </div>
 
 Here are some ideas to get you started:
-I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Turkey/Antalya.
+I am a Full Stack Developer [<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif"](url) width="30"> from Turkey/Antalya.
 - 🔭 I’m currently working on .NET, Angular projects
 - 🌱 I’m currently learning about C# , JS  
 - 👯 I’m looking to collaborate on any projects
@@ -30,6 +29,6 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 </div>
 :fire: My Stats :
 <p></p>
-<a href="https://git.io/streak-stats"><img src="http://github-readme-streak-stats.herokuapp.com?user=AzizOzenir&theme=dark&hide_border=true&border_radius=10&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak" /></a>
+<a href="https://git.io/streak-stats"><img src="http://github-readme-streak-stats.herokuapp.com?user=mbbayir&theme=dark&hide_border=true&border_radius=10&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak" /></a>
 <p></p>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AzizOzenir&layout=compact&theme=vision-friendly-dark" alt="Top Languages" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mbbayir&layout=compact&theme=vision-friendly-dark" alt="Top Languages" />
