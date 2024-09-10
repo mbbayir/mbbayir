@@ -42,6 +42,8 @@
     <img src="https://img.shields.io/badge/adobephotoshop-%2331A8FF.svg?style=flat&logo=adobephotoshop&logoColor=white" alt="Photoshop Badge"/>
     <img src="https://img.shields.io/badge/.NET-5C2D91?style=flat&logo=.net&logoColor=white" alt=".NET Badge"/>
     <img src="https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=flat&logo=bootstrap&logoColor=white" alt="Bootstrap Badge"/>
+    <img src="https://img.shields.io/badge/ajax-232F3E.svg?style=flat&logo=ajax&logoColor=white" alt="AJAX Badge"/>
+
 </div>
 
 ---
