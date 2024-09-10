@@ -19,7 +19,7 @@
 </div>
 
 <p align="center">
-  👋 Full Stack Developer | .NET & Angular | C# & JS
+  👋 Full Stack Developer | .NET & C# | Angular & JS
 </p>
 
 ### About Me:
