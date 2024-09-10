@@ -9,8 +9,8 @@
 
 <img src="https://komarev.com/ghpvc/?username=mbbayir&style=flat-square&color=blue" alt="Profile Views"/>
 
-<h1 align="center">
-  Hey, I'm Mehmet Burak Bayır! 
+<h1>
+  Hey There
   <img src="https://i.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.webp" width="30px" height="30px"/>
 </h1>
 
@@ -19,7 +19,7 @@
 </div>
 
 <p align="center">
-  👋 Full Stack Developer | .NET & Angular Enthusiast | Passionate About C# & JS
+  👋 Full Stack Developer | .NET & Angular | About C# & JS
 </p>
 
 ### About Me:
