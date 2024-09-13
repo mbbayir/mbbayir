@@ -49,6 +49,7 @@
     <img src="https://img.shields.io/badge/ajax-232F3E.svg?style=flat&logo=ajax&logoColor=white" alt="AJAX Badge"/>
     <img src="https://img.shields.io/badge/jquery-%230769AD.svg?style=flat&logo=jquery&logoColor=white" alt="jQuery Badge"/>
 </div>
+
 ---
 
 ### :fire: My GitHub Stats:
