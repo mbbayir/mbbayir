@@ -1,4 +1,7 @@
 <div id="badges" align="center">
+    <a href="http://mehmetburakbayir.com" target="blank">
+  <img src="https://img.shields.io/badge/Website-DC143C?style=for-the-badge&logo=medium&logoColor=white" alt="alsiam" />
+ </a>
     <a href="https://www.linkedin.com/in/mehmet-burak-bayır-023807251/" target="_blank">
         <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
     </a>
