@@ -5,8 +5,6 @@
     <a href="#" target="_blank">
         <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
     </a>
-    <p align="left">
-  <a href="https://github.com/mbbayir?tab=repositories" target="_blank"><img alt="All Repositories" title="All Repositories" src="https://img.shields.io/badge/-All%20Repos-2962FF?style=for-the-badge&logo=koding&logoColor=white"/></a>
 </p>
 </div>
 
@@ -63,4 +61,5 @@
 <p align="center">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mbbayir&layout=compact&theme=vision-friendly-dark" alt="Top Languages"/>
 </p>
-
+ <p align="left">
+  <a href="https://github.com/mbbayir?tab=repositories" target="_blank"><img alt="All Repositories" title="All Repositories" src="https://img.shields.io/badge/-All%20Repos-2962FF?style=for-the-badge&logo=koding&logoColor=white"/></a>
